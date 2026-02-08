@@ -1,0 +1,84 @@
+# =========================
+# Node Modules
+# =========================
+node_modules/
+**/node_modules/
+node_modules
+/node_modules
+
+# =========================
+# Environment Variables (IMPORTANT)
+# =========================
+.env
+.env.*
+**/.env
+**/.env.*
+
+# =========================
+# Next.js Build / Cache
+# =========================
+.next/
+out/
+build/
+dist/
+
+# Turbopack cache
+.turbo/
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Runtime / Temp Files
+# =========================
+tmp/
+temp/
+.cache/
+
+# =========================
+# Testing / Coverage
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# Package Lock (OPTIONAL — Keep If You Want Repro Builds)
+# =========================
+# package-lock.json
+# yarn.lock
+
+# =========================
+# Backend Specific
+# =========================
+backend/logs/
+backend/tmp/
+backend/uploads/
+
+# =========================
+# System / Misc
+# =========================
+*.pid
+*.seed
+*.pid.lock

@@ -1,0 +1,80 @@
+[
+  {
+    "sector": "Financials",
+    "stocks": [
+      {
+        "symbol": "HDFCBANK",
+        "name": "HDFC Bank",
+        "purchasePrice": 1500,
+        "quantity": 10,
+        "exchange": "NSE"
+      },
+      {
+        "symbol": "ICICIBANK",
+        "name": "ICICI Bank",
+        "purchasePrice": 900,
+        "quantity": 15,
+        "exchange": "NSE"
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "name": "Kotak Bank",
+        "purchasePrice": 1700,
+        "quantity": 6,
+        "exchange": "NSE"
+      },
+      {
+        "symbol": "BAJFINANCE",
+        "name": "Bajaj Finance",
+        "purchasePrice": 7200,
+        "quantity": 2,
+        "exchange": "NSE"
+      }
+    ]
+  },
+  {
+    "sector": "Information Technology",
+    "stocks": [
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "purchasePrice": 1400,
+        "quantity": 12,
+        "exchange": "NSE"
+      },
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "purchasePrice": 3200,
+        "quantity": 5,
+        "exchange": "NSE"
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "purchasePrice": 450,
+        "quantity": 20,
+        "exchange": "NSE"
+      }
+    ]
+  },
+  {
+    "sector": "Energy",
+    "stocks": [
+      {
+        "symbol": "RELIANCE",
+        "name": "Reliance Industries",
+        "purchasePrice": 2400,
+        "quantity": 8,
+        "exchange": "NSE"
+      },
+      {
+        "symbol": "ONGC",
+        "name": "ONGC",
+        "purchasePrice": 180,
+        "quantity": 40,
+        "exchange": "NSE"
+      }
+    ]
+  }
+]
