@@ -80,29 +80,29 @@ Caching is implemented to prevent excessive external API calls and improve respo
 
 frontend/
 
-src/
+  src/
 
-app/
+  app/
 
-components/
+  components/
 
-services/
+  services/
 
 
 
 backend/
 
-src/
+  src/
 
-routes/
+  routes/
 
-controllers/
+  controllers/
 
-services/
+  services/
 
-utils/
+  utils/
 
-data/
+  data/
 
 ## 🧪 Running Locally
 
