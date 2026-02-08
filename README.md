@@ -79,30 +79,46 @@ Caching is implemented to prevent excessive external API calls and improve respo
 ## 📂 Project Structure
 
 frontend/
+
 src/
+
 app/
+
 components/
+
 services/
 
+
+
 backend/
+
 src/
+
 routes/
+
 controllers/
+
 services/
+
 utils/
+
 data/
 
 ## 🧪 Running Locally
 
 ### Backend
 cd backend
+
 npm install
+
 node src/server.js
 
 
 ### Frontend
 cd frontend
+
 npm install
+
 npm run dev
 
 
