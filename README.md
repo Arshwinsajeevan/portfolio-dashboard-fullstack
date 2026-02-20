@@ -9,7 +9,7 @@ This project was built as part of a Full Stack technical assignment to demonstra
 ## 🌐 Live Demo
 
 **Frontend (Vercel)**  
-👉 https://portfolio-dashboard-fullst-git-ff49ac-arshwinsajeevans-projects.vercel.app/dashboard  
+👉 https://portfolio-dashboard-fullstack-seven.vercel.app/dashboard
 
 **Backend (Render)**  
 👉 https://portfolio-dashboard-fullstack.onrender.com  
